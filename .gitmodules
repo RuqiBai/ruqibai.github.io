@@ -1,4 +1,0 @@
-[submodule "webpage/public"]
-	path = webpage/public
-	url = https://github.com/RuqiBai/ruqibai.github.io.git
-	branch = main
